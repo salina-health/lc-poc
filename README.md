@@ -1,6 +1,6 @@
 # Laryngeal cancer triage proof-of-concept
 
-This repository contains code to process voice recordings and train a RF model to classify recordings for triage on to the appropriate treatment pathway (cancer or not cancer).
+This repository contains code to process voice recordings and train a RF model to classify recordings for triage onto the appropriate treatment pathway (cancer or not cancer).
 
 The inputs to the model are features extracted from a 3 second sample of the audio, such as the mean pitch, shimmer and jitter.
 
