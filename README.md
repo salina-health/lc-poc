@@ -71,11 +71,9 @@ We listened to each recording in Audacity, and logged the time (in seconds) just
 - Start ah (time in seconds just before "ah" sound)
 - Observations (text noting anything unusual)
 
-An example observation might be "S (subject) gave two sounds took second".
+An example observation might be "S (subject) gave two sounds; we took the second one".
 
-The script `ah.py` was used to read the CSV file and write out three seconds of audio starting from the "ah" sound.
-
-For example, for the first row, "Study number 1", we look for 'Study 0001.wav' and write "ah Study 0001 3 sec.wav".
+The script `ah.py` was used to read the CSV file and write out three seconds of audio starting from the "ah" sound. For example, for the first row, "Study number 1", we look for 'Study 0001.wav' and write "ah Study 0001 3 sec.wav".
 
 We re-listened to the "ah" extracted audio to manually check for quality.
 
@@ -87,7 +85,7 @@ See the notebook `summary.ipynb` for initial exploration of the data.
 
 See `explore-rf-3sec.ipynb`.
 
-The note book is made up of three main parts:
+The notebook is made up of three main parts:
 
 1. Feature extracting, using Surfboard. This writes a file called `AI data with features 3 seconds.csv` which contains the classification data, study number, and then audio features. 
 
