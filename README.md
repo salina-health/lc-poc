@@ -62,7 +62,7 @@ Useful alternative data sources, which we used to help size the models before tr
 
 ## 1. Convert to WAV
 
-Audio files were converted to WAV files, with a consistent sampling rate of 48000. See `resample.sh` for the commands
+Audio files were converted to WAV files, with a consistent sampling rate of 48000. See [resample.sh](https://github.com/salina-health/lc-poc/blob/main/resample.sh) for the commands.
 
 ## 2. Isolation of "ah" sound
 
@@ -73,17 +73,17 @@ We listened to each recording in Audacity, and logged the time (in seconds) just
 
 An example observation might be "S (subject) gave two sounds; we took the second one".
 
-The script `ah.py` was used to read the CSV file and write out three seconds of audio starting from the "ah" sound. For example, for the first row, "Study number 1", we look for 'Study 0001.wav' and write "ah Study 0001 3 sec.wav".
+The script [ah.py](https://github.com/salina-health/lc-poc/blob/main/ah.py) was used to read the CSV file and write out three seconds of audio starting from the "ah" sound. For example, for the first row, "Study number 1", we look for 'Study 0001.wav' and write "ah Study 0001 3 sec.wav".
 
 We re-listened to the "ah" extracted audio to manually check for quality.
 
 ## 3. Data exploration
 
-See the notebook `summary.ipynb` for initial exploration of the data.
+See the notebook [summary.ipynb](https://github.com/salina-health/lc-poc/blob/main/summary.ipynb) for initial exploration of the data.
 
 ## 4. Feature extraction and training
 
-See `explore-rf-3sec.ipynb`.
+See [explore-rf-3sec.ipynb](https://github.com/salina-health/lc-poc/blob/main/explore-rf-3sec.ipynb).
 
 The notebook is made up of three main parts:
 
