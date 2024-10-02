@@ -111,6 +111,33 @@ The F1 metric was not as informative as we hoped. The problem here is capture al
 
 # Related work
 
+1. Sharma, M. et al. TBscreen: A passive cough classifier for tuberculosis screening with a controlled dataset. Science Advances 10, eadi0282 (2024).
+2. Coppock, H. et al. Audio-based AI classifiers show no evidence of improved COVID-19 screening over simple symptoms checkers. Nat Mach Intell 1–14 (2024) doi:10.1038/s42256-023-00773-8.
+3. Baur, S. et al. HeAR -- Health Acoustic Representations. Preprint at http://arxiv.org/abs/2403.02522 (2024).
+4. Kaufman, J. M., Thommandram, A. & Fossat, Y. Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments. Mayo Clinic Proceedings: Digital Health 1, 534–544 (2023).
+5. Hunter, D. J. & Holmes, C. Where Medical Statistics Meets Artificial Intelligence. N Engl J Med 389, 1211–1219 (2023).
+6. Xie, J.-C., Gan, Y., Liang, P., Lan, R. & Gao, H. Exploring robust computer-aided diagnosis of Parkinson’s disease based on various voice signals. Frontiers in Physics 10, (2022).
+7. Toye, A. A. & Kompalli, S. Comparative Study of Speech Analysis Methods to Predict Parkinson’s Disease. Preprint at https://doi.org/10.48550/arXiv.2111.10207 (2021).
+8. Sung, H. et al. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA: A Cancer Journal for Clinicians 71, 209–249 (2021).
+9. Health, T. L. D. Do I sound sick? The Lancet Digital Health 3, e534 (2021).
+10. Fan, Z., Wu, Y., Zhou, C., Zhang, X. & Tao, Z. Class-Imbalanced Voice Pathology Detection and Classification Using Fuzzy Cluster Oversampling Method. Applied Sciences 11, 3450 (2021).
+11. Fagherazzi, G., Fischer, A., Ismael, M. & Despotovic, V. Voice for Health: The Use of Vocal Biomarkers from Research to Clinical Practice. DIB 5, 78–88 (2021).
+12. Byeon, H. Is Deep Learning Better than Machine Learning to Predict Benign Laryngeal Disorders? IJACSA 12, (2021).
+13. Riley, R. D. et al. Calculating the sample size required for developing a clinical prediction model. BMJ 368, m441 (2020).
+14. Mohammed, M. A. et al. Voice Pathology Detection and Classification Using Convolutional Neural Network Model. Applied Sciences 10, 3723 (2020).
+15. Kim, H. et al. Convolutional Neural Network Classifies Pathological Voice Change in Laryngeal Cancer with High Accuracy. J Clin Med 9, 3415 (2020).
+16. Gour, G. B., V.Udayashankara, Badakh, D. K. & Kulkarni, Y. A. Voice-Disorder Identification of Laryngeal Cancer Patients. International Journal of Advanced Computer Science and Applications (IJACSA) 11, (2020).
+17. Devarriya, D., Gulati, C., Mansharamani, V., Sakalle, A. & Bhardwaj, A. Unbalanced breast cancer data classification using novel fitness functions in genetic programming. Expert Systems with Applications 140, 112866 (2020).
+18. Deng, Y. et al. Global burden of larynx cancer, 1990-2017: estimates from the global burden of disease 2017 study. Aging (Albany NY) 12, 2545–2583 (2020).
+19. Acharjee, A., Larkman, J., Xu, Y., Cardoso, V. R. & Gkoutos, G. V. A random forest based biomarker discovery and power analysis framework for diagnostics research. BMC Medical Genomics 13, 178 (2020).
+20. Pons, J., Serrà, J. & Serra, X. Training neural audio classifiers with few data. Preprint at https://doi.org/10.48550/arXiv.1810.10274 (2018).
+21. Bray, F. et al. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA: A Cancer Journal for Clinicians 68, 394–424 (2018).
+22. Dimauro, G., Di Nicola, V., Bevilacqua, V., Caivano, D. & Girardi, F. Assessment of Speech Intelligibility in Parkinson’s Disease Using a Speech-To-Text System. IEEE Access 5, 22199–22208 (2017).
+23. Verikas, A. et al. Data dependent random forest applied to screening for laryngeal disorders through analysis of sustained phonation: Acoustic versus contact microphone. Medical Engineering & Physics 37, 210–218 (2015).
+24. Teixeira, J. P., Oliveira, C. & Lopes, C. Vocal Acoustic Analysis – Jitter, Shimmer and HNR Parameters. Procedia Technology 9, 1112–1122 (2013).
+25. Figueroa, R. L., Zeng-Treitler, Q., Kandula, S. & Ngo, L. H. Predicting sample size required for classification performance. BMC Medical Informatics and Decision Making 12, 8 (2012).
+26. Wormald, R. N., Moran, R. J., Reilly, R. B. & Lacy, P. D. Performance of an Automated, Remote System to Detect Vocal Fold Paralysis. Ann Otol Rhinol Laryngol 117, 834–838 (2008).
+27. Gelzinis, A., Verikas, A. & Bacauskiene, M. Automated speech analysis applied to laryngeal disease categorization. Computer Methods and Programs in Biomedicine 91, 36–47 (2008).
 
 
 # How to cite this work
